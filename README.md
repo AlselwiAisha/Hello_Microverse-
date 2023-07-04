@@ -8,7 +8,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -27,7 +26,7 @@
 
 # 📖 [Hello_Microverse-] <a name="about-project"></a>
 
-**[Hello_Microverse-]** is a first project in Microverse.
+**[Hello_Microverse-]** is my first microverse project. In this project, we use HTML and CSS by adding an index and style file, we also used linters to analyze our source code to flag programming errors, bugs, stylistic errors, and suspicious constructs in addition to creating the test file and putting it in the gitignore to learn more about the gitignore file.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,15 +44,13 @@ I'm using mainly html, css for building this project.
 
 ### Key Features <a name="key-features"></a>
 
-- **[Home_Page]**
+- **[Set up the linter for the project for writing clean code]**
+- **[Add the test file and node modules to the .gitignore file]**
+- **[Add the styling color using CSS]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,6 +119,7 @@ You can deploy this project using:
 👤 **AishaAlsewi**
 
 - GitHub: [@githubhandle](https://github.com/AlselwiAisha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aisha-alselwi-53a361270/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +127,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Developer_works_section]**
+- **[Add the navigation for the project to navigate over the pages]**
+- **[Add some animation style for the project to attract the user's attention]**
+- **[Use the semantics tags at the project]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
